@@ -14,7 +14,7 @@ This is a list of papers and codes about explainable machine learning.
 <!--- * Title, in *NeurIPS* 2019. [\[paper\]]() [\[code\]]() ---> 
 
 ## Survey/Tutorial
-
+* On Explainable AI: From Theory to Motivation, Industrial Applications and Coding Practices, AAAI 2022. [\[Link\]](https://xaitutorial2021.github.io/)
 
 ## Foundamental Explainable ML
 
