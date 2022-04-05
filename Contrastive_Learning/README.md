@@ -17,6 +17,7 @@ This is a list of papers and codes about contrastive learning.
 ## Foundamental Contrastive Learning
 
 ## Contrasitve Learning in CV
+* Crafting Better Contrastive Views for Siamese Representation Learning, in *CVPR* 2022. [\[paper\]](https://arxiv.org/abs/2202.03278) [\[code\]](https://github.com/xyupeng/ContrastiveCrop)
 
 ## Contrasitve Learning in NLP
 
