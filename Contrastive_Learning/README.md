@@ -21,6 +21,7 @@ This is a list of papers and codes about contrastive learning.
 ## Contrasitve Learning in NLP
 
 ## Contrasitve Learning in Recommendation
+* Contrastive Learning for Sequential Recommendation. [\[paper\]](https://arxiv.org/abs/2010.14395)
 
 ## Contrasitve Learning in Other Applications
 
