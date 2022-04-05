@@ -30,6 +30,10 @@ This is a list of papers and codes about explainable machine learning.
 ## Explainable Methods in NLP
 
 
+## Explainable Methods in GNN
+* Towards Self-Explainable Graph Neural Network, *CIKM* 2021. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3459637.3482306?casa_token=QCWCRWnwCR0AAAAA:JAdj8PtPoxVUW4annpOC-o0hg-nndjM3jZaJNMPTy2VWR9eSjUBczrBIDwF7Rb5pGrRm0dvNtOAfYQ) ![](https://img.shields.io/badge/Self_Explaining-blue)
+
+
 ## Explainable Methods in Recommendation
 
 
