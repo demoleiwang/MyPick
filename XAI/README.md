@@ -4,7 +4,7 @@ This is a list of papers and codes about explainable machine learning.
 
 ### Keywords Convention
 
-![](https://img.shields.io/badge/Self\-Explaining-blue) Towards self-explaining methods or post-hoc explanations.
+![](https://img.shields.io/badge/Self_Explaining-blue) Towards self-explaining methods or post-hoc explanations.
 
 ![](https://img.shields.io/badge/Analysis-green) The main explored property of explanations methods in the work.
 
