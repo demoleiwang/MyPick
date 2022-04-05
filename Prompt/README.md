@@ -12,7 +12,7 @@ Updating on 5 Apr!
 <!-- omit in toc -->
 ## Contents
 
-Must-read papers on prompt-based tuning for pre-trained language models. The paper list is mainly mantained by [Ning Ding](https://github.com/ningding97) and [Shengding Hu](https://github.com/shengdinghu). Watch this repository for the latest updates!
+Must-read papers on prompt-based tuning for pre-trained language models. The original github repo is mainly mantained by [Ning Ding](https://github.com/ningding97) and [Shengding Hu](https://github.com/shengdinghu). Watch this repository for the latest updates!
 
 - [PromptPapers](#promptpapers)
   - [Introduction](#introduction)
@@ -374,18 +374,3 @@ This section contains the prompt learning methods designed for various NLP task.
 21. **Ontology-enhanced Prompt-tuning for Few-shot Learning.** WWW 2022. ![](https://img.shields.io/badge/OntoPrompt-blue) ![](https://img.shields.io/badge/Information_Extraction-brown) ![](https://img.shields.io/badge/Knowledge_Graph_Completion-red)
 
       *Hongbin Ye, Ningyu Zhang, Shumin Deng, Xiang Chen, Hui Chen, Feiyu Xiong, Xi Chen, Huajun Chen.* [[pdf](https://arxiv.org/abs/2201.11332)], 2022.1
-
-## Contribution
-
-### Other contributors 
-We thank [Yujia Qin](https://github.com/thuqinyj16), [Xiachong Feng](https://github.com/xcfcode), [Chenglei Si](https://github.com/NoviScl) , [Tianbao Xie](https://github.com/Timothyxxx), [Muhtasham Oblokulov](https://github.com/Muhtasham) for the paper recommendation.
-
-
-### Contributing to this paper list
-   - First, think about which category the work should belong to. 
-   - Second, use the same format as the others to discribe the work. Note that there should be an empty line between the title and the authors list, and take care of the indentation.
-   - Then, add [keywords tags](#keywords-convention). Add the pdf link of the paper. If it is an arxiv publication, we prefer /abs/ format to /pdf/ format.
-
-   **Don't worry if you put all these wrong, we will fix them for you.** Just contribute and promote your awesome work here! 
-
-   If you recommended a work that wasn't yours, you will be added to the contributor list (be sure to provide your information in [other contributors](#other-contributors)).
