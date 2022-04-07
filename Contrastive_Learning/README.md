@@ -18,11 +18,12 @@ This is a list of papers and codes about contrastive learning.
 
 ## Contrasitve Learning in CV
 * Crafting Better Contrastive Views for Siamese Representation Learning, in *CVPR* 2022. [\[paper\]](https://arxiv.org/abs/2202.03278) [\[code\]](https://github.com/xyupeng/ContrastiveCrop)
+* Robust Contrastive Learning Using Negative Sampleswith Diminished Semantics, in *NeurIPS* 2021. [\[paper\]](https://arxiv.org/abs/2110.14189) [\[code\]](https://github.com/SongweiGe/Contrastive-Learning-with-Non-Semantic-Negatives)
 
 ## Contrasitve Learning in NLP
 
 ## Contrasitve Learning in Recommendation
-* Contrastive Learning for Sequential Recommendation, *SIGIRI* 2021. [\[paper\]](https://arxiv.org/abs/2010.14395)
+* Contrastive Learning for Sequential Recommendation, in *SIGIRI* 2021. [\[paper\]](https://arxiv.org/abs/2010.14395)
 
 ## Contrasitve Learning in Other Applications
 
