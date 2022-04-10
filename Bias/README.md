@@ -13,6 +13,6 @@ This is a list of papers and codes about debias.
 <!--- * Title, in *NeurIPS* 2019. [\[paper\]]() [\[code\]]() ---> 
 
 ## Survey Paper
-* Bias Issues and Solutions in Recommender System, in *SIGIR* 2021. [\[paper\]](http://staff.ustc.edu.cn/~hexn/slides/sigir21-tutorial-bias-slides.pdf)
+* Bias Issues and Solutions in Recommender System, in *SIGIR* 2021. [\[paper\]](http://staff.ustc.edu.cn/~hexn/slides/sigir21-tutorial-bias-slides.pdf) [\[github\]](https://github.com/jiawei-chen/RecDebiasing)
 
 ## Debias in Recommendation
