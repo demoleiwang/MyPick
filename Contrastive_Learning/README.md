@@ -32,3 +32,4 @@ This is a list of papers and codes about contrastive learning.
 ## Contrasitve Learning in Other Applications
 
 ## Contrasitve Learning for XAI ,OOD, or Debias
+* Exploring Balanced Feature Spaces for Representation Learning, in *ICLR* 2021. [\[paper\]](https://openreview.net/forum?id=OqtLIabPTit)
