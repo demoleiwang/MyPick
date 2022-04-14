@@ -12,6 +12,7 @@ This is a list of papers and codes about XLM.
 ## Survey Paper
 
 ## Foundamental XLM
+* Cross-Lingual Transfer with Class-Weighted Language-Invariant Representations, in *ICLR* 2022. [\[paper\]](https://openreview.net/forum?id=k7-s5HSSPE5)
 
 ## Analysis/Datasets XLM
 
