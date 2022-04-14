@@ -12,6 +12,7 @@ This is a list of papers and codes about XLM.
 ## Survey Paper
 
 ## Foundamental XLM
+* Zero-shot Cross-lingual Transfer of Prompt-based Tuning with a Unified Multilingual Prompt, in *ACL* 2022. [\[paper\]](https://arxiv.org/pdf/2202.11451.pdf)
 * Cross-Lingual Transfer with Class-Weighted Language-Invariant Representations, in *ICLR* 2022. [\[paper\]](https://openreview.net/forum?id=k7-s5HSSPE5)
 
 ## Analysis/Datasets XLM
