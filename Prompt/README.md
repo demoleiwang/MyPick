@@ -374,3 +374,5 @@ This section contains the prompt learning methods designed for various NLP task.
 21. **Ontology-enhanced Prompt-tuning for Few-shot Learning.** WWW 2022. ![](https://img.shields.io/badge/OntoPrompt-blue) ![](https://img.shields.io/badge/Information_Extraction-brown) ![](https://img.shields.io/badge/Knowledge_Graph_Completion-red)
 
       *Hongbin Ye, Ningyu Zhang, Shumin Deng, Xiang Chen, Hui Chen, Feiyu Xiong, Xi Chen, Huajun Chen.* [[pdf](https://arxiv.org/abs/2201.11332)], 2022.1
+
+22. **Zero-shot Cross-lingual Transfer of Prompt-based Tuning with a Unified Multilingual Prompt**, in *ACL* 2022. [\[paper\]](https://arxiv.org/pdf/2202.11451.pdf)
