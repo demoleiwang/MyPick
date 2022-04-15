@@ -7,6 +7,7 @@
 * Generative Modeling with Optimal Transport Maps, in *ICLR* 2022. [\[paper\]]()
 * Optimal Transport for Long-Tailed Recognition with Learnable Cost Matrix, in *ICLR* 2022. [\[paper\]]()
 * Data Efficient Language-Supervised Zero-Shot Recognition with Optimal Transport Distillation, in *ICLR* 2022. [\[paper\]]()
+* Using Optimal Transport as Alignment Objective for fine-tuning Multilingual Contextualized Embeddings, in *EMNLP* 2021. [\[paper\]](https://arxiv.org/pdf/2110.02887.pdf)
 * Unbalanced minibatch Optimal Transport; applications to Domain Adaptation, in *ICML* 2021. [\[paper\]]()
 * A Trainable Optimal Transport Embedding for Feature Aggregation and its Relationship to Attention, in *ICLR* 2021. [\[paper\]]()
 * OT-Flow: Fast and Accurate Continuous Normalizing Flows via Optimal Transport, in *AAAI* 2021. [\[paper\]]()
@@ -19,5 +20,5 @@
 * Hierarchical Optimal Transport for Multimodal Distribution Alignment, in *NeurIPS* 2019. [\[paper\]]()
 * Optimal Transport for structured data with application on graphs, in *ICML* 2019. [\[paper\]]()
 * Improving Sequence-to-Sequence Learning via Optimal Transport, in *ICLR* 2019. [\[paper\]](https://arxiv.org/pdf/1901.06283.pdf)
-* Unsupervised Alignment of Embeddings with Wasserstein Procrustes, in *AISTATS* 2019. [\[paper\]](http://proceedings.mlr.press/v89/grave19a/grave19a.pdf) 
+* Unsupervised Alignment of Embeddings with Wasserstein Procrustes, in *AISTATS* 2019. [\[paper\]](http://proceedings.mlr.press/v89/grave19a/grave19a.pdf) [Done] 
 * Computational Optimal Transport, in 2018. [\[paper\]]()
