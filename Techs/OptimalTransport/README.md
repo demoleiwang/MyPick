@@ -18,6 +18,6 @@
 * Hierarchical Optimal Transport for Document Representation, in *NeurIPS* 2019. [\[paper\]]()
 * Hierarchical Optimal Transport for Multimodal Distribution Alignment, in *NeurIPS* 2019. [\[paper\]]()
 * Optimal Transport for structured data with application on graphs, in *ICML* 2019. [\[paper\]]()
-* Improving Sequence-to-Sequence Learning via Optimal Transport, in *ICLR* 2019. [\[paper\]]()
+* Improving Sequence-to-Sequence Learning via Optimal Transport, in *ICLR* 2019. [\[paper\]](https://arxiv.org/pdf/1901.06283.pdf)
 * Unsupervised Alignment of Embeddings with Wasserstein Procrustes, in *AISTATS* 2019. [\[paper\]](http://proceedings.mlr.press/v89/grave19a/grave19a.pdf) 
 * Computational Optimal Transport, in 2018. [\[paper\]]()
