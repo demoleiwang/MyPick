@@ -27,7 +27,7 @@ This is a list of papers and codes about contrastive learning.
 ## Contrasitve Learning in Recommendation
 * Contrastive Self-supervised Sequential Recommendation with Robust Augmentation, in *arXiv* 2022, [\[paper\]]() [\[code\]]()
 * Contrastive Learning for Representation Degeneration Problemin Sequential Recommendation, in *WSDM* 2022. [\[paper\]]() [\[code\]]()
-* Contrastive Learning for Sequential Recommendation, in *SIGIRI* 2021. [\[paper\]](https://arxiv.org/abs/2010.14395)
+* Contrastive Learning for Sequential Recommendation, in *SIGIR* 2021. [\[paper\]](https://arxiv.org/abs/2010.14395)
 
 ## Contrasitve Learning in Other Applications
 
