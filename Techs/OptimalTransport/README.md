@@ -1,3 +1,8 @@
+## Tutorial
+* Optimal Transport and Wasserstein Distance [\[link\]](https://www.stat.cmu.edu/~larry/=sml/Opt.pdf)
+
+
+## Papers
 * Optimal Transport for Causal Discovery, in *ICLR* 2022. [\[paper\]]()
 * Generative Modeling with Optimal Transport Maps, in *ICLR* 2022. [\[paper\]]()
 * Optimal Transport for Long-Tailed Recognition with Learnable Cost Matrix, in *ICLR* 2022. [\[paper\]]()
