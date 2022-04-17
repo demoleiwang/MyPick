@@ -7,6 +7,7 @@
 * Generative Modeling with Optimal Transport Maps, in *ICLR* 2022. [\[paper\]]()
 * Optimal Transport for Long-Tailed Recognition with Learnable Cost Matrix, in *ICLR* 2022. [\[paper\]]()
 * Data Efficient Language-Supervised Zero-Shot Recognition with Optimal Transport Distillation, in *ICLR* 2022. [\[paper\]]()
+* Learning Multiple Stock Trading Patterns with Temporal Routing Adaptor and Optimal Transport, in *KDD* 2021. [\[paper\]](https://arxiv.org/abs/2106.12950) [\[code\]](https://github.com/microsoft/qlib)
 * Using Optimal Transport as Alignment Objective for fine-tuning Multilingual Contextualized Embeddings, in *EMNLP* 2021. [\[paper\]](https://arxiv.org/pdf/2110.02887.pdf) [**Done**] 
 * Unbalanced minibatch Optimal Transport; applications to Domain Adaptation, in *ICML* 2021. [\[paper\]]()
 * A Trainable Optimal Transport Embedding for Feature Aggregation and its Relationship to Attention, in *ICLR* 2021. [\[paper\]]()
