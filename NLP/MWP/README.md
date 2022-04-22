@@ -10,3 +10,5 @@ This is a list of papers and codes about MWP solving.
 
 * Chain of Thought Prompting Elicits Reasoning in Large Language Models, submit to *ICML* 2022. [\[paper\]](https://arxiv.org/pdf/2201.11903.pdf)
 [\[code\]](https://github.com/jasonwei20/chain-of-thought-prompting)
+
+* Training Verifiers to Solve Math Word Problems, in 2021. [\[paper\]](https://arxiv.org/pdf/2110.14168.pdf) [\[code\]](https://github.com/openai/grade-school-math)
