@@ -55,3 +55,6 @@ This is a list of papers and codes about explainable machine learning.
 *  Representer Point Selection for Explaining Deep Neural Networks, *NeurIPS* 2018.[\[paper\]](https://arxiv.org/abs/1811.09720)
 *  Learning latent subspaces in variational autoen-coders, *NeurIPS* 2018. [\[paper\]](https://proceedings.neurips.cc/paper/2018/file/73e5080f0f3804cb9cf470a8ce895dac-Paper.pdf)
 *  The Bayesian Case Model: A Generative Approach for Case-Based Reasoning and Prototype Classification, *NeurIPS* 2014. [\[paper\]](https://arxiv.org/abs/1503.01161)
+
+### Concepts
+*  Interpretability beyond feature attribution:  Quantitative testing with concept activationvectors (TCAV), *ICML* 2018. [\[paper\]](https://arxiv.org/abs/1711.11279)
