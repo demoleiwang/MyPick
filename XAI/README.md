@@ -46,4 +46,10 @@ This is a list of papers and codes about explainable machine learning.
 
 ## Categorization
 ### Saliency Maps
+* Axiomatic attribution for deep networks. *ICML* 2017. [\[paper\]](https://arxiv.org/abs/1703.01365)
 * A unified approach to interpreting model predictions, *NeurIPS* 2017. [\[paper\]](https://arxiv.org/abs/1705.07874)
+* Smooth-Grad: Removing noise by adding noise, *ICML VDL* 2017. [\[paper\]](https://arxiv.org/abs/1706.03825)
+
+### Examples
+*  Interpreting black box predic-tions using Fisher kernels, 2019 [\[paper\]](https://arxiv.org/abs/1810.10118)
+*  The Bayesian Case Model: A Generative Approach for Case-Based Reasoning and Prototype Classification, *NeurIPS* 2014. [\[paper\]](https://arxiv.org/abs/1503.01161)
