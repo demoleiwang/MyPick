@@ -23,6 +23,7 @@ This is a list of papers and codes about explainable machine learning.
 * On Explainable AI: From Theory to Motivation, Industrial Applications and Coding Practices, AAAI 2021. [\[Link\]](https://xaitutorial2021.github.io/)
 
 ## Foundamental Explainable ML
+* Towards A Rigorous Science of Interpretable Machine Learning. 2018. [\[Link\]](https://arxiv.org/abs/1702.08608)
 
 ## Explainable Methods in CV
 
