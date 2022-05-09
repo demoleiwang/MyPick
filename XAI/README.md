@@ -51,7 +51,7 @@ This is a list of papers and codes about explainable machine learning.
 * Smooth-Grad: Removing noise by adding noise, *ICML VDL* 2017. [\[paper\]](https://arxiv.org/abs/1706.03825)
 
 ### Examples
-*  Interpreting black box predic-tions using Fisher kernels, 2019 [\[paper\]](https://arxiv.org/abs/1810.10118)
+*  Interpreting black box predic-tions using Fisher kernels, 2019. [\[paper\]](https://arxiv.org/abs/1810.10118)
 *  Representer Point Selection for Explaining Deep Neural Networks, *NeurIPS* 2018.[\[paper\]](https://arxiv.org/abs/1811.09720)
 *  Learning latent subspaces in variational autoen-coders, *NeurIPS* 2018. [\[paper\]](https://proceedings.neurips.cc/paper/2018/file/73e5080f0f3804cb9cf470a8ce895dac-Paper.pdf)
 *  The Bayesian Case Model: A Generative Approach for Case-Based Reasoning and Prototype Classification, *NeurIPS* 2014. [\[paper\]](https://arxiv.org/abs/1503.01161)
