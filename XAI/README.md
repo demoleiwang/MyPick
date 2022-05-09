@@ -58,3 +58,20 @@ This is a list of papers and codes about explainable machine learning.
 
 ### Concepts
 *  Interpretability beyond feature attribution:  Quantitative testing with concept activationvectors (TCAV), *ICML* 2018. [\[paper\]](https://arxiv.org/abs/1711.11279)
+
+### Shortcoming
+* Learning to Deceive with Attention-Based Explanations, *ACL* 2019. [\[paper\]](https://arxiv.org/abs/1909.07913)
+* Is attention interpretable? *ACL* 2019. [\[paper\]](https://arxiv.org/abs/1906.03731)
+* Attention is not Explanation, *NAACL* 2019. [\[paper\]](https://arxiv.org/abs/1902.10186)
+* Sanity checks for saliency maps, *NeurIPS* 2018. [\[paper\]](https://arxiv.org/abs/1810.03292)
+
+### GAN
+* Explanation by Progressive Exaggeration, *ICLR* 2020. [\[paper\]](https://arxiv.org/abs/1911.00483)
+* Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations, *ICML* 2019. [\[paper\]](https://arxiv.org/abs/1811.12359)
+* Info-GAN: Interpretable representation learning by information maximizing generative adversarialnets, *NeurIPS* 2018. [\[paper\]](https://arxiv.org/abs/1606.03657)
+* ExplainGAN: Model Explanation via Decision Boundary Crossing Transformations, *ECCV* 2018. [\[paper\]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Nathan_Silberman_ExplainGAN_Model_Explanation_ECCV_2018_paper.pdf)
+* Disentangling by factorising, *ICML* 2018. [\[paper\]](https://arxiv.org/abs/1802.05983)
+* beta-VAE: Learning basic visual con-cepts with a constrained variational framework, *ICLR* 2017. [\[paper\]](https://openreview.net/forum?id=Sy2fzU9gl)
+* Deep Convolutional Inverse Graphics Network, *NeurIPS* 2015. [\[paper\]](https://arxiv.org/abs/1503.03167)
+
+
