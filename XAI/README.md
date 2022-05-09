@@ -16,6 +16,7 @@ This is a list of papers and codes about explainable machine learning.
 - [Explainable Methods in Recommendation](#XAI-Rec)
 - [Other Explainable Methods](#XAI-Other)
 - [Explainable Methods for OOD or Debias](#XAI-OOD)
+- [Categorization](#catg)
 
 <!--- * Title, in *NeurIPS* 2019. [\[paper\]]() [\[code\]]() ---> 
 
@@ -42,3 +43,7 @@ This is a list of papers and codes about explainable machine learning.
 
 
 ## Explainable Methods for OOD or Debias
+
+## Categorization
+### Saliency Maps
+* A unified approach to interpreting model predictions, *NeurIPS* 2017. [\[paper\]](https://arxiv.org/abs/1705.07874)
