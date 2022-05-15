@@ -6,6 +6,17 @@
     <strong>Motivation</strong>. Existing RSs mostly ignored the striking differences between the causal parts and non-causal parts when using these embedding vectors.  <strong>Solution</strong>. They propose a model-agnostic framework named IV4Rec that can effectively **decompose** the embedding vectors into these two parts, hence enhancing recommendation results. Specifically, we **jointly** **consider** users’ behaviors in **search** scenarios and **recommendation** scenarios. <strong>Datasets</strong>. Kuaishou and MIND. <strong>Baselines</strong>. NRHUB and DIN. <strong>Future</strong> N.A <strong>Inspiration</strong> N.A.
     </details>
 
+* Causal Representation Learning for Out-of-Distribution Recommendation, in *WWW* 2022. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512251). :thumbsup: 
+    <details>
+    <summary>Summary</summary>
+    <strong>Motivation</strong>.  
+    <strong>Solution</strong>. 
+    <strong>Datasets</strong>.  
+    <strong>Baselines</strong>. 
+    <strong>Future</strong>. 
+    <strong>Ins</strong>.
+    </details>
+
 
 ### Explicit Modeling
 * Learning Explicit User Interest **Boundary** for Recommendation, in *WWW* 2022. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3485447.3511971). [\[code\]](https://github.com/JianhuanZhuo/Code-for-UIB-WWW2022) :thumbsup: 
