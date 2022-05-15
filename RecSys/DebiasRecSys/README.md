@@ -13,3 +13,15 @@
     <summary>Summary</summary>
     <strong>Motivation</strong>. Point-wise and pair-wise approaches are hard to explicitly provide a personalized decision boundary to determine if users are interested in items unseen. <strong>Solution</strong>. They propose a boundary to combine point-wise an pair-wise losses. <strong>Datasets</strong>. Amazon Instant Video (AIV), LastFM, Movielens-1M (ML1M) and Movielens-10M (ML10M). <strong>Baselines</strong>. BPR, SML and LightGCN. <strong>Future</strong>?? <strong>Inspiration</strong> Balanced Space?
     </details>
+
+### Sequential Recommendation
+* Unbiased Sequential Recommendation with Latent Confounders, in *WWW* 2022. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512090). [\[code\]](https://github.com/salesforce/ICLRec) :thumbsup: 
+    <details>
+    <summary>Summary</summary>
+    <strong>Motivation</strong>.  
+    <strong>Solution</strong>. 
+    <strong>Datasets</strong>.  
+    <strong>Baselines</strong>. 
+    <strong>Future</strong>. 
+    <strong>Ins</strong>.
+    </details>
