@@ -24,13 +24,16 @@ This is a list of papers and codes about contrastive learning.
 * Robust Contrastive Learning Using Negative Samples with Diminished Semantics, in *NeurIPS* 2021. [\[paper\]](https://arxiv.org/abs/2110.14189) [\[code\]](https://github.com/SongweiGe/Contrastive-Learning-with-Non-Semantic-Negatives)
 
 ## Contrasitve Learning in NLP
+* Genre-Controllable Story Generation via Supervised Contrastive Learning, in *WWW* 2022. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512004)[\[code\]](https://github.com/jucho2725/WWW2021_StoryControl/)
 
 ## Contrasitve Learning in Recommendation
-* Contrastive Self-supervised Sequential Recommendation with Robust Augmentation, in *arXiv* 2022, [\[paper\]]() [\[code\]]()
+* Contrastive Self-supervised Sequential Recommendation with Robust Augmentation, in *arXiv* 2022, [\[paper\]]() 
 * Contrastive Learning for Representation Degeneration Problemin Sequential Recommendation, in *WSDM* 2022. [\[paper\]]() [\[code\]]()
 * Contrastive Learning for Sequential Recommendation, in *SIGIR* 2021. [\[paper\]](https://arxiv.org/abs/2010.14395)
 
 ## Contrasitve Learning in Other Applications
+* Improving Graph Collaborative Filtering with Neighborhood-enriched Contrastive Learning, in *WWW* 2022. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512104)[\[code\]](https://github.com/RUCAIBox/NCL)
+* SimGRACE: A Simple Framework for Graph Contrastive Learning without Data Augmentationin *WWW* 2022. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512156)[\[code\]](https://github.com/junxia97/SimGRACE)
 
 ## Contrasitve Learning for XAI ,OOD, or Debias
 * Exploring Balanced Feature Spaces for Representation Learning, in *ICLR* 2021. [\[paper\]](https://openreview.net/forum?id=OqtLIabPTit)
