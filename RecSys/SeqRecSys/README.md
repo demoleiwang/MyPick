@@ -11,7 +11,7 @@
     <strong>Ins</strong>.
     </details>
  
-* Generative Session-based Recommendation, in *WWW* 2022. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512095). [\[code\]]() :thumbsup: 
+* Generative Session-based Recommendation, in *WWW* 2022. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512095).
     <details>
     <summary>Summary</summary>
     <strong>Motivation</strong>.  
@@ -56,7 +56,7 @@
     </details>    
 
 ### Contrastive Learning
-* Intent Contrastive Learning for Sequential Recommendation, in *WWW* 2022. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512092). :thumbsup: 
+* Intent Contrastive Learning for Sequential Recommendation, in *WWW* 2022. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512092).
     <details>
     <summary>Summary</summary>
     <strong>Motivation</strong>.  
@@ -100,7 +100,7 @@
     </details>
     
 ### Graph
-* GSL4Rec: Session-based Recommendations with Collective Graph Structure Learning and Next Interaction Prediction, in *WWW* 2022. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512085). [\[code\]]() :thumbsup: 
+* GSL4Rec: Session-based Recommendations with Collective Graph Structure Learning and Next Interaction Prediction, in *WWW* 2022. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512085).
     <details>
     <summary>Summary</summary>
     <strong>Motivation</strong>.  
