@@ -9,3 +9,8 @@
     <strong>Future</strong>. (1) Example-based interpretability? (2) Disentangling. (3) How to revise BasketTR based on this method. (4) DuoRec?
     <strong>Ins</strong>. Their model.
     </details>
+
+
+
+### NAS
+* Towards Automatic Discovering of Deep Hybrid Network Architecture for Sequential Recommendation, in *WWW* 2022. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512066)
