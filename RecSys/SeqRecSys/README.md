@@ -7,4 +7,5 @@
     <summary>Summary</summary>
     <strong>Motivation</strong>. Recent studies on temporal sets prediction follow the same pipeline that only learns from each user’s own sequence, which fails to discover the collaborative signals among the sequences of **different users**. <strong>Solution</strong>. Element-guided larger graph. <strong>Datasets</strong>. DC, TaoBao, JD, and TMS.   <strong>Baselines</strong>. DNNTSP.
     <strong>Future</strong>. (1) Example-based interpretability? (2) Disentangling. (3) How to revise BasketTR based on this method. (4) DuoRec?
+    <strong>Baselines</strong>. Their model.
     </details>
