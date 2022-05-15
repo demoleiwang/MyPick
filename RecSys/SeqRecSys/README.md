@@ -25,7 +25,7 @@
 * Sequential Recommendation with Decomposed Item Feature Routing, in *WWW* 2022. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512101). [\[code\]]() :thumbsup: 
     <details>
     <summary>Summary</summary>
-    <strong>Motivation</strong>.  
+    <strong>Motivation</strong>. Data Augmentation  
     <strong>Solution</strong>. 
     <strong>Datasets</strong>.  
     <strong>Baselines</strong>. 
