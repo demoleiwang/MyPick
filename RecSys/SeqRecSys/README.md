@@ -78,6 +78,8 @@
     <strong>Ins</strong>.
     </details>
     
+
+    
 ### Debias
 * Unbiased Sequential Recommendation with Latent Confounders, in *WWW* 2022. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512090). 
     <details>
@@ -111,6 +113,54 @@
     <strong>Ins</strong>.
     </details>
 
+### Interest
+* When Multi-Level Meets Multi-Interest: A Multi-Grained Neural Model for Sequential Recommendation, in *SIGIR* 2022. [\[paper\]](https://arxiv.org/abs/2205.01286).
+    <details>
+    <summary>Summary</summary>
+    <strong>Motivation</strong>.  
+    <strong>Solution</strong>. 
+    <strong>Datasets</strong>.  
+    <strong>Baselines</strong>. 
+    <strong>Future</strong>. 
+    <strong>Ins</strong>.
+    </details>
+
+### Fine-grained
+* When Multi-Level Meets Multi-Interest: A Multi-Grained Neural Model for Sequential Recommendation, in *SIGIR* 2022. [\[paper\]](https://arxiv.org/abs/2205.01286).
+    <details>
+    <summary>Summary</summary>
+    <strong>Motivation</strong>.  
+    <strong>Solution</strong>. 
+    <strong>Datasets</strong>.  
+    <strong>Baselines</strong>. 
+    <strong>Future</strong>. 
+    <strong>Ins</strong>.
+    </details>
+    
+* Coarse-to-Fine Sparse Sequential Recommendation, in *SIGIR* 2022. [\[paper\]](https://arxiv.org/abs/2204.01839#:~:text=Sequential%20recommendation%20aims%20to%20model,dynamics%20and%20long%2Dterm%20preferences.).
+    <details>
+    <summary>Summary</summary>
+    <strong>Motivation</strong>.  
+    <strong>Solution</strong>. 
+    <strong>Datasets</strong>.  
+    <strong>Baselines</strong>. 
+    <strong>Future</strong>. 
+    <strong>Ins</strong>.
+    </details>
+
+
+### Sparse
+* Coarse-to-Fine Sparse Sequential Recommendation, in *SIGIR* 2022. [\[paper\]](https://arxiv.org/abs/2204.01839#:~:text=Sequential%20recommendation%20aims%20to%20model,dynamics%20and%20long%2Dterm%20preferences.).
+    <details>
+    <summary>Summary</summary>
+    <strong>Motivation</strong>.  
+    <strong>Solution</strong>. 
+    <strong>Datasets</strong>.  
+    <strong>Baselines</strong>. 
+    <strong>Future</strong>. 
+    <strong>Ins</strong>.
+    </details>
+
 ### Side Info
 * Decoupled Side Information Fusion for Sequential Recommendation, in *SIGIR* 2022. [\[paper\]](https://arxiv.org/abs/2204.11046).
     <details>
@@ -125,3 +175,24 @@
 
 ### NAS
 * Towards Automatic Discovering of Deep Hybrid Network Architecture for Sequential Recommendation, in *WWW* 2022. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512066)
+    <details>
+    <summary>Summary</summary>
+    <strong>Motivation</strong>.  
+    <strong>Solution</strong>. 
+    <strong>Datasets</strong>.  
+    <strong>Baselines</strong>. 
+    <strong>Future</strong>. 
+    <strong>Ins</strong>.
+    </details>
+
+
+* , in *SIGIR* 2022. [\[paper\]]().
+    <details>
+    <summary>Summary</summary>
+    <strong>Motivation</strong>.  
+    <strong>Solution</strong>. 
+    <strong>Datasets</strong>.  
+    <strong>Baselines</strong>. 
+    <strong>Future</strong>. 
+    <strong>Ins</strong>.
+    </details>
