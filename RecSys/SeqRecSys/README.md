@@ -79,7 +79,7 @@
     </details>
     
 ### Debias
-* Unbiased Sequential Recommendation with Latent Confounders, in *WWW* 2022. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512090). [\[code\]](https://github.com/salesforce/ICLRec) :thumbsup: 
+* Unbiased Sequential Recommendation with Latent Confounders, in *WWW* 2022. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512090). [\[code\]]() :thumbsup: 
     <details>
     <summary>Summary</summary>
     <strong>Motivation</strong>.  
