@@ -14,8 +14,8 @@
 * Generative Session-based Recommendation, in *WWW* 2022. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512095).
     <details>
     <summary>Summary</summary>
-    <strong>Motivation</strong>.  
-    <strong>Solution</strong>. 
+    <strong>Motivation</strong>. Data sparsity.
+    <strong>Solution</strong>. The first adversarial module aims to make the generated samples conform to the underlying patterns of the real user sequential preference (rationality requirement). The second adversarial module is targeted at widening the model experiences by generating samples which can induce larger model losses (informativeness requirement).
     <strong>Datasets</strong>.  
     <strong>Baselines</strong>. 
     <strong>Future</strong>. 
