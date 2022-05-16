@@ -56,7 +56,7 @@
     </details>    
 
 ### Contrastive Learning
-* Intent Contrastive Learning for Sequential Recommendation, in *WWW* 2022. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512092).
+* Intent Contrastive Learning for Sequential Recommendation, in *WWW* 2022. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512090).[\[code\]](https://github.com/salesforce/ICLRec) :thumbsup: 
     <details>
     <summary>Summary</summary>
     <strong>Motivation</strong>.  
