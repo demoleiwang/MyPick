@@ -111,6 +111,17 @@
     <strong>Ins</strong>.
     </details>
 
+### Side Info
+* Decoupled Side Information Fusion for Sequential Recommendation, in *SIGIR* 2022. [\[paper\]](https://arxiv.org/abs/2204.11046).
+    <details>
+    <summary>Summary</summary>
+    <strong>Motivation</strong>.  
+    <strong>Solution</strong>. 
+    <strong>Datasets</strong>.  
+    <strong>Baselines</strong>. 
+    <strong>Future</strong>. 
+    <strong>Ins</strong>.
+    </details>
 
 ### NAS
 * Towards Automatic Discovering of Deep Hybrid Network Architecture for Sequential Recommendation, in *WWW* 2022. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512066)
