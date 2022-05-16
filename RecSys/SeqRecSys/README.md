@@ -3,8 +3,8 @@
 * Sequential Recommendation via Stochastic Self-Attention, in *WWW* 2022. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512077). [\[code\]](https://github.com/zfan20/STOSA) :thumbsup: 
     <details>
     <summary>Summary</summary>
-    <strong>Motivation</strong>.  
-    <strong>Solution</strong>. 
+    <strong>Motivation</strong>.  users’ real-world sequential behaviors are uncertain rather than deterministic, posing a significant challenge to present techniques. We further suggest that dot-product-based approaches cannot fully capture collaborative transitivity, which can be derived in **item-item transitions** inside sequences and is beneficial for cold start items. We further argue that BPR loss has no constraint on positive and sampled negative items, which misleads the optimization.
+    <strong>Solution</strong>. It embeds each item as a stochastic Gaussian distribution, the covariance of which encodes the uncertainty.
     <strong>Datasets</strong>.  
     <strong>Baselines</strong>. 
     <strong>Future</strong>. 
@@ -82,7 +82,7 @@
 * Unbiased Sequential Recommendation with Latent Confounders, in *WWW* 2022. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512090). 
     <details>
     <summary>Summary</summary>
-    <strong>Motivation</strong>.  
+    <strong>Motivation</strong>. the observational data may have been contaminated by the exposure or selection biases, which renders the learned sequential models unreliable. 
     <strong>Solution</strong>. 
     <strong>Datasets</strong>.  
     <strong>Baselines</strong>. 
