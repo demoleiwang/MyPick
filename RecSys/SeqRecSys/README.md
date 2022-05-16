@@ -22,7 +22,7 @@
     <strong>Ins</strong>.
     </details>
 
-* Sequential Recommendation with Decomposed Item Feature Routing, in *WWW* 2022. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512101). [\[code\]]() :thumbsup: 
+* Sequential Recommendation with Decomposed Item Feature Routing, in *WWW* 2022. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512101). 
     <details>
     <summary>Summary</summary>
     <strong>Motivation</strong>. Data Augmentation  
