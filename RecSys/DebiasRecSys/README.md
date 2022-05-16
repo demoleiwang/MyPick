@@ -33,6 +33,16 @@
     <strong>Ins</strong>.
     </details>
 
+* AutoDebias: Learning to Debias for Recommendation, in *SIGIR* 2021. [\[paper\]](https://arxiv.org/abs/2105.04170). 
+    <details>
+    <summary>Summary</summary>
+    <strong>Motivation</strong>.  
+    <strong>Solution</strong>. 
+    <strong>Datasets</strong>.  
+    <strong>Baselines</strong>. 
+    <strong>Future</strong>. 
+    <strong>Ins</strong>.
+    </details>
 
 
 ### Casual Perspective
@@ -52,6 +62,21 @@
     <strong>Future</strong>. 
     <strong>Ins</strong>.
     </details>
+    
+* Causal Intervention for Leveraging Popularity Bias in Recommendation, in *SIGIR* 2021. [\[paper\]](https://arxiv.org/abs/2105.06067). 
+    <details>
+    <summary>Summary</summary>
+    <strong>Motivation</strong>.  
+    <strong>Solution</strong>. 
+    <strong>Datasets</strong>.  
+    <strong>Baselines</strong>. 
+    <strong>Future</strong>. 
+    <strong>Ins</strong>.
+    </details>
+
+
+
+
 
 ### Robust
 * Learning Robust Recommenders through Cross-Model Agreement, in *WWW* 2022. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512202). [\[code\]](https://github.com/wangyu-ustc/DeCA) :thumbsup: 
