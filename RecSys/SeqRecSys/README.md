@@ -44,7 +44,7 @@
     <strong>Ins</strong>.
     </details>
     
-* Learn over Past, Evolve for Future: Search-based Time-aware Recommendation with Sequential Behavior Data in *WWW* 2022. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512117). [\[code\]](https://github.com/RUCAIBox/FMLP-Rec) :thumbsup: 
+* Learn over Past, Evolve for Future: Search-based Time-aware Recommendation with Sequential Behavior Data in *WWW* 2022. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512117). [\[code\]](https://github.com/Jinjiarui/STARec) :thumbsup: 
     <details>
     <summary>Summary</summary>
     <strong>Motivation</strong>.  
