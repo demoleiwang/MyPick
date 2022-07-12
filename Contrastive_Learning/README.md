@@ -4,6 +4,9 @@ This is a list of papers and codes about contrastive learning.
 ## Table of Contents
 - [Survey paper](#survey-paper)
 - [Foundamental Contrastive Learning](#foundamental-CL)
+  - [Theory of CL](#foundamental-Theory-CL)
+  - [Positive in CL](#foundamental-Positive-CL)
+  - [Negative in CL](#foundamental-Negative-CL)
 - [Contrasitve Learning in CV](#CL-CV)
 - [Contrasitve Learning in NLP](#CL-NLP)
 - [Contrasitve Learning in VL](#CL-VL)
