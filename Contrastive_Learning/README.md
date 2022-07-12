@@ -5,8 +5,8 @@ This is a list of papers and codes about contrastive learning.
 - [Survey paper](#survey-paper)
 - [Foundamental Contrastive Learning](#foundamental-CL)
   - [Theory of CL](#foundamental-Theory-CL)
-  - [Positive in CL](#foundamental-Positive-CL)
-  - [Negative in CL](#foundamental-Negative-CL)
+  - [Augmentations in CL](#foundamental-Aug-CL)
+  - [Others in CL](#foundamental-Others-CL)
 - [Contrasitve Learning in CV](#CL-CV)
 - [Contrasitve Learning in NLP](#CL-NLP)
 - [Contrasitve Learning in VL](#CL-VL)
@@ -14,12 +14,17 @@ This is a list of papers and codes about contrastive learning.
 - [Contrasitve Learning in Other Applications](#CL-Other)
 - [Contrasitve Learning for XAI ,OOD, or Debias](#CL-XAI)
 
-<!--- * Title, in *NeurIPS* 2019. [\[paper\]]() [\[code\]]() ---> 
+<!--- 1. Title, in *NeurIPS* 2019. [\[paper\]]() [\[code\]]() ---> 
 
 ## Survey Paper
 
 ## Foundamental Contrastive Learning
+
+### Theory of CL
 1. (TBD) Toward Understanding the Feature Learning Process of Self-supervised Contrastive Learning, in *ICML* 2021. [\[paper\]](http://proceedings.mlr.press/v139/wen21c.html) [\[slides\]](https://icml.cc/virtual/2021/poster/8579)
+1. Title, in *NeurIPS* 2019. [\[paper\]]() [\[code\]]()
+
+### Others
 1. Training GANs with Stronger Augmentations via Contrastive Discriminator, in *ICLR* 2021. [\[paper\]]() [\[code\]]()
 1. Supervised Contrastive Learning, in *NeurIPS* 2020. [\[paper\]]() [\[code\]]()
 
