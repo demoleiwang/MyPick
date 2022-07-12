@@ -6,6 +6,7 @@ This is a list of papers and codes about contrastive learning.
 - [Foundamental Contrastive Learning](#foundamental-CL)
 - [Contrasitve Learning in CV](#CL-CV)
 - [Contrasitve Learning in NLP](#CL-NLP)
+- [Contrasitve Learning in VL](#CL-VL)
 - [Contrasitve Learning in Recommendation](#CL-Rec)
 - [Contrasitve Learning in Other Applications](#CL-Other)
 - [Contrasitve Learning for XAI ,OOD, or Debias](#CL-XAI)
@@ -24,7 +25,12 @@ This is a list of papers and codes about contrastive learning.
 * Robust Contrastive Learning Using Negative Samples with Diminished Semantics, in *NeurIPS* 2021. [\[paper\]](https://arxiv.org/abs/2110.14189) [\[code\]](https://github.com/SongweiGe/Contrastive-Learning-with-Non-Semantic-Negatives)
 
 ## Contrasitve Learning in NLP
-* Genre-Controllable Story Generation via Supervised Contrastive Learning, in *WWW* 2022. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512004)[\[code\]](https://github.com/jucho2725/WWW2021_StoryControl/)
+* Genre-Controllable Story Generation via Supervised Contrastive Learning, in *WWW* 2022. [\[paper\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Vision-Language_Pre-Training_With_Triple_Contrastive_Learning_CVPR_2022_paper.pdf)[\[code\]](https://github.com/jucho2725/WWW2021_StoryControl/)
+
+
+## Contrasitve Learning in VL
+* Vision-Language Pre-Training with Triple Contrastive Learning, in *CVPR* 2022. 
+[\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512004)[\[code\]](https://github.com/uta-smile/TCL)
 
 ## Contrasitve Learning in Recommendation
 * Contrastive Self-supervised Sequential Recommendation with Robust Augmentation, in *arXiv* 2022, [\[paper\]]() 
