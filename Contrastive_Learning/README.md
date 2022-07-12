@@ -25,6 +25,8 @@ This is a list of papers and codes about contrastive learning.
 * Robust Contrastive Learning Using Negative Samples with Diminished Semantics, in *NeurIPS* 2021. [\[paper\]](https://arxiv.org/abs/2110.14189) [\[code\]](https://github.com/SongweiGe/Contrastive-Learning-with-Non-Semantic-Negatives)
 
 ## Contrasitve Learning in NLP
+* Toward Interpretable Semantic Textual Similarity via Optimal Transport-based Contrastive Sentence Learning, in *ACL* 2022.
+[\[paper\]](https://aclanthology.org/2022.acl-long.412.pdf) [\[code]\](https://github.com/sh0416/clrcmd)
 * (TBD) Genre-Controllable Story Generation via Supervised Contrastive Learning, in *WWW* 2022. [\[paper\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Vision-Language_Pre-Training_With_Triple_Contrastive_Learning_CVPR_2022_paper.pdf)[\[code\]](https://github.com/jucho2725/WWW2021_StoryControl/)
 
 
