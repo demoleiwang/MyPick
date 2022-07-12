@@ -16,9 +16,9 @@ This is a list of papers and codes about contrastive learning.
 ## Survey Paper
 
 ## Foundamental Contrastive Learning
-* (TBD) Toward Understanding the Feature Learning Process of Self-supervised Contrastive Learning, in *ICML* 2021. [\[paper\]](http://proceedings.mlr.press/v139/wen21c.html) [\[slides\]](https://icml.cc/virtual/2021/poster/8579)
-* Training GANs with Stronger Augmentations via Contrastive Discriminator, in *ICLR* 2021. [\[paper\]]() [\[code\]]()
-* Supervised Contrastive Learning, in *NeurIPS* 2020. [\[paper\]]() [\[code\]]()
+1. (TBD) Toward Understanding the Feature Learning Process of Self-supervised Contrastive Learning, in *ICML* 2021. [\[paper\]](http://proceedings.mlr.press/v139/wen21c.html) [\[slides\]](https://icml.cc/virtual/2021/poster/8579)
+1. Training GANs with Stronger Augmentations via Contrastive Discriminator, in *ICLR* 2021. [\[paper\]]() [\[code\]]()
+1. Supervised Contrastive Learning, in *NeurIPS* 2020. [\[paper\]]() [\[code\]]()
 
 ## Contrasitve Learning in CV
 * Crafting Better Contrastive Views for Siamese Representation Learning, in *CVPR* 2022. [\[paper\]](https://arxiv.org/abs/2202.03278) [\[code\]](https://github.com/xyupeng/ContrastiveCrop)
