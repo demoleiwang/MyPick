@@ -17,6 +17,8 @@ This is a list of papers and codes about contrastive learning.
 <!--- 1. Title, in *NeurIPS* 2019. [\[paper\]]() [\[code\]]() ---> 
 
 ## Survey Paper
+1. [\[Contrastive Data and Learning for
+Natural Language Processing\]], in *NAACL* 2022. [\[Slides\]](https://contrastive-nlp-tutorial.github.io/files/contrastive_nlp_tutorial.pdf)
 
 ## Foundamental Contrastive Learning
 
@@ -34,6 +36,7 @@ This is a list of papers and codes about contrastive learning.
 1. Crafting Better Contrastive Views for Siamese Representation Learning, in *CVPR* 2022. [\[paper\]](https://arxiv.org/abs/2202.03278) [\[code\]](https://github.com/xyupeng/ContrastiveCrop)
 2. Robust Contrastive Learning Using Negative Samples with Diminished Semantics, in *NeurIPS* 2021. [\[paper\]](https://arxiv.org/abs/2110.14189) [\[code\]](https://github.com/SongweiGe/Contrastive-Learning-with-Non-Semantic-Negatives)
 3. (TBD) CosFace: Large Margin Cosine Loss for Deep Face Recognition, in *CVPR* 2018. [\[paper\]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_CosFace_Large_Margin_CVPR_2018_paper.pdf)
+4. FaceNet: A unified embedding for face recognition and clustering, in *CVPR* 2015. [\[paper\]](https://arxiv.org/abs/1503.03832?context=cs)
 
 ## Contrasitve Learning in NLP
 1. Toward Interpretable Semantic Textual Similarity via Optimal Transport-based Contrastive Sentence Learning, in *ACL* 2022.
