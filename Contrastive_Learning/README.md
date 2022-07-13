@@ -26,7 +26,9 @@ This is a list of papers and codes about contrastive learning.
 
 ### Others
 1. Training GANs with Stronger Augmentations via Contrastive Discriminator, in *ICLR* 2021. [\[paper\]]() [\[code\]]()
-1. Supervised Contrastive Learning, in *NeurIPS* 2020. [\[paper\]]() [\[code\]]()
+2. Decoupled Contrastive Learning, 2021.  [\[paper\]](https://arxiv.org/pdf/2110.06848.pdf)
+3. Supervised Contrastive Learning, in *NeurIPS* 2020. [\[paper\]]() [\[code\]]()
+
 
 ## Contrasitve Learning in CV
 * Crafting Better Contrastive Views for Siamese Representation Learning, in *CVPR* 2022. [\[paper\]](https://arxiv.org/abs/2202.03278) [\[code\]](https://github.com/xyupeng/ContrastiveCrop)
