@@ -31,6 +31,7 @@ This is a list of papers and codes about contrastive learning.
 ## Contrasitve Learning in CV
 * Crafting Better Contrastive Views for Siamese Representation Learning, in *CVPR* 2022. [\[paper\]](https://arxiv.org/abs/2202.03278) [\[code\]](https://github.com/xyupeng/ContrastiveCrop)
 * Robust Contrastive Learning Using Negative Samples with Diminished Semantics, in *NeurIPS* 2021. [\[paper\]](https://arxiv.org/abs/2110.14189) [\[code\]](https://github.com/SongweiGe/Contrastive-Learning-with-Non-Semantic-Negatives)
+* (TBD) CosFace: Large Margin Cosine Loss for Deep Face Recognition, in *CVPR* 2018. [\[paper\]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_CosFace_Large_Margin_CVPR_2018_paper.pdf)
 
 ## Contrasitve Learning in NLP
 * Toward Interpretable Semantic Textual Similarity via Optimal Transport-based Contrastive Sentence Learning, in *ACL* 2022.
