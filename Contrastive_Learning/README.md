@@ -17,8 +17,8 @@ This is a list of papers and codes about contrastive learning.
 <!--- 1. Title, in *NeurIPS* 2019. [\[paper\]]() [\[code\]]() ---> 
 
 ## Survey Paper
-1. [\[Contrastive Data and Learning for
-Natural Language Processing\]], in *NAACL* 2022. [\[Slides\]](https://contrastive-nlp-tutorial.github.io/files/contrastive_nlp_tutorial.pdf)
+1. Contrastive Data and Learning for
+Natural Language Processing, in *NAACL* 2022. [\[Slides\]](https://contrastive-nlp-tutorial.github.io/files/contrastive_nlp_tutorial.pdf)
 
 ## Foundamental Contrastive Learning
 
